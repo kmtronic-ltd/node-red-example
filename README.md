@@ -8,6 +8,10 @@ This flow requires from the Pallet Manager
 
 Dashboard - node-red-dashboard
 
+<img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/Node-RED%20(6).png" width="800" height="438">
+
+<img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/Node-RED%20(7).png" width="800" height="378">
+
 Every http request will have to be edited with the
 IP address of your KMTronic WEB Switch (not UDP
 switch).  Change 192.168.110.206 ,212 and 202 to the address of you KMTronic board/boards.

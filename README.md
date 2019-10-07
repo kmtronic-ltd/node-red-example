@@ -1,4 +1,4 @@
-# node-red Example
+# Node-RED Example
 
 This is a node-red flow for controlling couple of a KMTronic TCP Web Switch including and a Temperature Monitor
 

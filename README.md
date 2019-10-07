@@ -19,3 +19,6 @@ it if not required
 
 In the initial setup of your KMtronic switch turn 
 off any authetication.  
+
+Credits 
+Michael Walker

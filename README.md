@@ -24,5 +24,16 @@ it if not required
 In the initial setup of your KMtronic switch turn 
 off any authetication.  
 
+<img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/Node-RED%20(1).jpg" width="250" height="514">
+
+<img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/Node-RED%20(2).jpg" width="250" height="514">
+
+<img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/Node-RED%20(3).jpg" width="250" height="514">
+
+<img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/Node-RED%20(4).jpg" width="250" height="514">
+
+<img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/Node-RED%20(5).jpg" width="800" height="503">
+
+
 Credits 
 Michael Walker

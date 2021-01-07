@@ -8,7 +8,9 @@ This flow requires from the Pallet Manager
 
 Dashboard - node-red-dashboard
 
+
 <img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/Node-RED%20(6).png" width="800" height="438">
+
 
 <img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/Node-RED%20(7).png" width="800" height="378">
 
@@ -35,5 +37,20 @@ off any authetication.
 <img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/Node-RED%20(5).png" width="800" height="503">
 
 
+Requirements for USB Relay Boards: 
+
+Serial Port - node-red-node-serialport
+
+<img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/Serial-Palette.png" width="704" height="210">
+
+Find the serial board in Linux from you terminal: 
+
+<img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/ttyUSB.png" width="664" height="255">
+
+Serial Port Config
+
+<img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/SerialPort-config.png" width="513" height="347">
+
+<img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/ttyUSB.png" width="508" height="558">
 Credits 
 Michael Walker

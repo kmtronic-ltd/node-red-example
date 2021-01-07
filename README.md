@@ -51,6 +51,10 @@ Serial Port Config
 
 <img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/SerialPort-config.png" width="513" height="347">
 
+Flow preview
+
 <img src="https://github.com/kmtronic-ltd/node-red-example/blob/master/USB8REL.PNG" width="508" height="558">
+
+
 Credits 
 Michael Walker
